@@ -1,0 +1,25 @@
+{
+  "name": "coolweatherapp",
+  "version": "1.0.0",
+  "description": "Some training",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninsy/coolWeatherApp.git"
+  },
+  "author": "Ninsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninsy/coolWeatherApp/issues"
+  },
+  "homepage": "https://github.com/ninsy/coolWeatherApp#readme",
+  "devDependencies": {
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.1.0",
+    "http-server": "^0.8.5"
+  }
+}
