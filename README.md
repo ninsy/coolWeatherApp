@@ -5,4 +5,4 @@ no.1
 	including new class and modules system, an obstacle has been met. At 5/12/2025,
 	the modules system has not been yet implemented. 
 	
-![Alt text](/misc/bugNo1.jpg?raw=true "Optional Title")
+![Alt text](./misc/bugNo1.png?raw=true "Optional Title")
